@@ -1,4 +1,5 @@
 astrocubes
 ==========
 
-Astro Cubes
+Astro^2s
+--------
